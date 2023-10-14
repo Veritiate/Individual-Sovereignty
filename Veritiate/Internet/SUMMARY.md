@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [🧠 Internet](README.md)
+
+## topic x
+
+* [Page 2](topic-x/page-2.md)
